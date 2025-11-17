@@ -1,0 +1,761 @@
+.header2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+}
+.header3 {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.png18 {
+    width: 120px;
+    height: 25px;
+}
+.png19 {
+    width: 30px;
+    height: 30px;
+}
+.glav1 {
+    display: flex;
+    justify-content: space-around;
+    gap: 735px;
+    margin-top: 100px;
+}
+.p1 {
+    font-size: 50px;
+    margin: 0;
+    color: white;
+}
+.p2 {
+    margin: 0;
+    text-align: end;
+    color: white;
+}
+.p3 {
+    color: white ;
+}
+.glav2 {
+    margin-left: 190px;
+}
+.glav3 {
+    margin-left: 190px;
+    margin-top: 400px;
+}
+.button1 {
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.background {
+    position:absolute;
+    top: 58px;
+    left: 0;
+    z-index: -1;
+}
+.onas {
+    margin-top: 170px;
+    margin-left: 195px;
+    font-size: 30px;
+    margin-bottom: 110px;
+}
+.o {
+    border: 2px solid black;
+    width: 350px;
+    height: 120px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+.onas1 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.o1 {
+    width: 374px;
+    height: 124px;
+}
+.onas2 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 40px;
+}
+.o2 {
+    width: 354px;
+    height: 124px;
+    padding-left: 20px;
+}
+.o3 {
+    border: 2px solid black;
+    width: 350px;
+    height: 120px;
+    border-radius: 10px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.oo {
+    margin: 0;
+}
+.o4 {
+    width: 354px;
+    height: 104px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.mej {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 60px;
+    align-items: center;
+}
+.pngar {
+    width: 30px;
+    height: 20px;
+}
+.button2 {
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: khaki;
+    border: 1px solid black;
+}
+.nash {
+    background-color: silver;
+    width: 400px;
+    border-radius: 20px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.n1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.n2 {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 30px;
+}
+.n3 {
+    padding-left: 20px;
+}
+.p4 {
+    font-size: 30px;
+}
+.button4 {
+    width: 250px;
+    height: 40px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: khaki;
+}
+.nash1 {
+    font-size: 30px;
+    margin-left: 195px;
+}
+.pp {
+    display: flex;
+    gap: 155px;
+    margin-left: 195px;
+}
+.n4 {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 65px;
+}
+.button3 {
+    width: 250px;
+    height: 40px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-top: 202px;
+    background-color: khaki;
+}
+.button5 {
+    width: 250px;
+    height: 40px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-top: 568px;
+    background-color: khaki;
+}
+.k {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    background-color: silver;
+    border-radius: 10px;
+    padding-left: 5px;
+    width: 1165px;
+}
+.pngli {
+    height: 1px;
+}
+.kak {
+    display: flex;
+    gap: 20px;
+}
+.k1 {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    background-color: silver;
+    border-radius: 10px;
+    padding-left: 5px;
+    margin-top: 10px;
+}
+.k2 {
+    background-color: silver;
+    border-radius: 10px;
+    width: 320px;
+}
+.kk {
+    border: 1px solid black;
+}
+.l::before {
+    content: "-";
+}
+.k3 {
+    background-color: silver;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-left: 10px;
+    width: 1160px;
+}
+.l {
+    padding: 0;
+}
+.ul1 {
+    padding: 0;
+    font-size: 20px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.k4 {
+    padding-left: 400px;
+    font-size: 20px;
+}
+.k5 {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.glavk {
+    margin-left: 195px;
+    margin-top: 80px;
+}
+.p5 {
+    font-size: 30px;
+}
+.p6 {
+    font-size: 20px;
+}
+.p10 {
+    font-size: 20px;
+    padding-left: 5px;
+}
+.p11 {
+    font-size: 20px;
+    padding-left: 5px;
+    margin-bottom: 0;
+}
+.hz {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.png23 {
+    width: 70px;
+}
+.p7 {
+    font-size: 20px;
+}
+.fot {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.fot2 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.fot3 {
+    display: flex;
+    gap: 10px;
+}
+.fot4 {
+    display: flex;
+    gap: 10px;
+}
+.glavfot {
+    display: flex;
+    margin-top: 50px;
+    gap: 15px;
+}
+.por {
+    margin-left: 195px;
+    margin-top: 50px;
+}
+.p8 {
+    font-size: 30px;
+}
+.p9 {
+    font-size: 25px;
+}
+.png30 {
+    width: 614px;
+}
+.png32 {
+    width: 440px;
+}
+.png25 {
+    height: 355px;
+}
+.button6 {
+    margin-top: 40px;
+    background-color: khaki;
+    height: 40px;
+    width: 300px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.fot5 {
+    margin-left: 600px;
+}
+.button7 {
+    margin-top: 60px;
+    background-color: khaki;
+    height: 50px;
+    width: 180px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+.form1{
+    background-color: silver;
+    width: 1510px ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+}
+.f {
+    margin-left: 195px;
+    margin-top: 60px;
+}
+.kkk {
+    border: 1px solid black;
+    width: 1508px;
+    margin-top: 20px;
+}
+.p11 {
+    font-size: 25px;
+}
+.form2 {
+    margin-top: 70px;
+}
+.input1 {
+    height: 30px;
+    margin-left: 90px;
+}
+.input2 {
+    height: 30px;
+    margin-left: 45px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Мобильная адаптация */
+@media (max-width: 1200px) {
+    .glav1 {
+        gap: 400px;
+    }
+    
+    .pp {
+        gap: 80px;
+        margin-left: 100px;
+    }
+    
+    .form1 {
+        width: 1000px;
+    }
+    
+    .kkk {
+        width: 998px;
+    }
+    
+    .k, .k3 {
+        width: 900px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .glav1 {
+        gap: 200px;
+        margin-top: 80px;
+    }
+    
+    .pp {
+        flex-direction: column;
+        gap: 40px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    
+    .nash {
+        width: 100%;
+        max-width: 500px;
+    }
+    
+    .button3 {
+        margin-top: 40px;
+    }
+    
+    .button5 {
+        margin-top: 40px;
+    }
+    
+    .form1 {
+        width: 800px;
+    }
+    
+    .kkk {
+        width: 798px;
+    }
+    
+    .fot5 {
+        margin-left: 300px;
+    }
+}
+
+@media (max-width: 768px) {
+    /* Хедер */
+    .header {
+        flex-direction: column;
+        gap: 15px;
+        padding: 15px;
+        text-align: center;
+    }
+    
+    .header2 {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+    
+    .header2 p {
+        font-size: 14px;
+    }
+    
+    /* Главный блок */
+    .glav {
+        position: relative;
+        min-height: 400px;
+        padding: 20px;
+    }
+    
+    .glav1 {
+        flex-direction: column;
+        gap: 30px !important;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .p1 {
+        font-size: 36px !important;
+        text-align: center;
+    }
+    
+    .p2 {
+        text-align: center !important;
+        font-size: 16px;
+    }
+    
+    .glav2, .glav3 {
+        margin-left: 0;
+        text-align: center;
+    }
+    
+    .glav3 {
+        margin-top: 150px;
+    }
+    
+    .background {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+    }
+    
+    .background img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    
+    /* Блок "О нас" */
+    .onas {
+        margin: 80px 20px 40px 20px;
+        font-size: 24px;
+        text-align: center;
+    }
+    
+    .onas1, .onas2 {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 0 20px;
+    }
+    
+    .o, .o1, .o2, .o3, .o4 {
+        width: 100% !important;
+        max-width: 400px;
+        height: auto;
+        min-height: 100px;
+        padding: 15px;
+        margin: 0 auto;
+    }
+    
+    /* Блок "Вызовем такси" */
+    .mej {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+        padding: 0 20px;
+        margin-top: 40px;
+    }
+    
+    .pngar {
+        transform: rotate(90deg);
+    }
+    
+    /* Услуги */
+    .nash1 {
+        margin: 40px 20px 20px 20px;
+        font-size: 24px;
+        text-align: center;
+    }
+    
+    .pp {
+        margin: 0 20px;
+        gap: 30px;
+    }
+    
+    .nash {
+        width: 100%;
+        padding: 20px;
+    }
+    
+    .p4 {
+        font-size: 22px !important;
+    }
+    
+    .button3, .button4, .button5 {
+        width: 100%;
+        max-width: 300px;
+        margin-top: 30px !important;
+    }
+    
+    /* Как мы работаем */
+    .glavk {
+        margin: 40px 20px;
+    }
+    
+    .p5 {
+        font-size: 24px;
+        text-align: center;
+    }
+    
+    .kak, .k5 {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .k, .k1, .k2, .k3 {
+        width: 100% !important;
+        flex-direction: column;
+        padding: 15px;
+        gap: 10px;
+    }
+    
+    .k4 {
+        padding-left: 0 !important;
+        text-align: center;
+        font-size: 16px !important;
+    }
+    
+    .ul1 {
+        font-size: 16px;
+    }
+    
+    /* QR код */
+    .mej .p7 {
+        font-size: 16px;
+    }
+    
+    /* Портфолио */
+    .por {
+        margin: 40px 20px;
+    }
+    
+    .p8 {
+        font-size: 24px;
+        text-align: center;
+    }
+    
+    .p9 {
+        font-size: 18px;
+        text-align: center;
+    }
+    
+    .glavfot {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .fot, .fot2, .fot3, .fot4 {
+        width: 100%;
+    }
+    
+    .fot3, .fot4 {
+        flex-direction: column;
+    }
+    
+    .png30, .png32, .png25 {
+        width: 100% !important;
+        height: auto !important;
+    }
+    
+    .fot5 {
+        margin: 30px 0 0 0;
+        text-align: center;
+    }
+    
+    .button6 {
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    /* Форма */
+    .f {
+        margin: 40px 20px;
+    }
+    
+    .form1 {
+        width: 100%;
+        padding: 20px;
+    }
+    
+    .kkk {
+        width: 100%;
+    }
+    
+    .form2 {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+        width: 100%;
+        margin-top: 30px;
+    }
+    
+    .input1, .input2 {
+        margin-left: 0 !important;
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    .button7 {
+        margin: 30px 0 20px 0;
+        width: 100%;
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 480px) {
+    .p1 {
+        font-size: 28px !important;
+    }
+    
+    .p2, .p3 {
+        font-size: 14px;
+    }
+    
+    .glav3 {
+        margin-top: 100px;
+    }
+    
+    .onas, .nash1, .p5, .p8 {
+        font-size: 20px !important;
+    }
+    
+    .p4 {
+        font-size: 18px !important;
+    }
+    
+    .p6, .p7, .p9, .p10, .p11 {
+        font-size: 14px !important;
+    }
+    
+    .header2 p {
+        font-size: 12px;
+    }
+    
+    .header3 p {
+        font-size: 14px;
+    }
+    
+    .n3 {
+        font-size: 14px;
+    }
+    
+    .button1 {
+        width: 100%;
+        max-width: 250px;
+    }
+}
+
+@media (max-width: 360px) {
+    .p1 {
+        font-size: 24px !important;
+    }
+    
+    .header2 {
+        gap: 8px;
+    }
+    
+    .header2 p {
+        font-size: 11px;
+    }
+    
+    .onas, .nash1, .p5, .p8 {
+        font-size: 18px !important;
+    }
+}
